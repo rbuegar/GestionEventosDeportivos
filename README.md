@@ -1,7 +1,8 @@
 # GESTION EVENTOS DEPORTIVOS
 
-## Nombre integrante 1
-## Nombre integrante 2 
+## Roberto Bueno García
+## Rafael Sánchez Sánchez  pull
+git pull
 
 ### ** Descripcion del proyecto **
-Descripcion del proyecto dada por Roberto
+Descripcion del proyecto dada por Roberto cigala
