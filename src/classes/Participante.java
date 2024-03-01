@@ -1,3 +1,5 @@
+package classes;
+
 public class Participante {
     private String dni;
     private String nombre;
@@ -48,7 +50,7 @@ public class Participante {
     // Método toString() que devuelve una cadena con la información del participante
     @Override
     public String toString() {
-        return "Participante{" +
+        return "classes.Participante{" +
                 "dni='" + dni + '\'' +
                 ", nombre='" + nombre + '\'' +
                 ", apellidos='" + apellidos + '\'' +
