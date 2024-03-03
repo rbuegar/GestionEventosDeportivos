@@ -3,7 +3,7 @@ package classes;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 
-public class EventoDeportivo {
+public abstract class EventoDeportivo {
     // Atributos
     private String nombre;
     private LocalDateTime fecha;
