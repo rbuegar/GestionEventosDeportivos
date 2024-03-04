@@ -2,7 +2,8 @@ package classes;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
-
+import classes.ParticipanteCarrera;
+import classes.Participante;
 
 public class Carrera extends EventoDeportivo {
     // Atributos adicionales

@@ -66,5 +66,9 @@ public class Participante {
         Participante that = (Participante) obj;
         return dni.equals(that.dni);
     }
+
+    public double getTiempo() {
+        return getTiempo();
+    }
 }
 

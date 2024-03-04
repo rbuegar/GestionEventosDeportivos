@@ -50,4 +50,8 @@ public abstract class EventoDeportivo {
 
     // Método abstracto para obtener el ganador
     public abstract ArrayList<Participante> obtenerGanador();
+
+    public ArrayList<Participante> getParticipantes() {
+        return participantes;
+    }
 }
