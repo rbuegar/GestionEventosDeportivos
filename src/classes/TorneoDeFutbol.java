@@ -23,7 +23,7 @@ public class TorneoDeFutbol extends EventoDeportivo {
     @Override
     public ArrayList<Participante> obtenerGanador() {
         if (equipos.isEmpty()) {
-            return new ArrayList<>(); // Retorna una lista vacía si no hay equipos inscritos
+            return new ArrayList<>(); // Devuelve una lista vacía si no hay equipos inscritos
         }
 
         // Suponiendo que todos los equipos tienen al menos un jugador
